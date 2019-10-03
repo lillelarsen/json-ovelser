@@ -1,0 +1,27 @@
+[
+    {
+    "Fornavn":"Steffen",
+    "Efternavn":"Larsen",
+    "Alder":"36 år",
+    "Skostørrelse":"Sko-størrelse 42",
+    "Hårfarve":"Hårfarve: nej"
+    },{
+        "Fornavn":"Marcus",
+        "Efternavn":"Vibe",
+        "Alder":"18 år",
+        "Skostørrelse":"Sko-størrelse 45",
+        "Hårfarve":"Hårfarve: Lyst"
+    },{
+        "Fornavn":"Clara",
+        "Efternavn":"Hansen",
+        "Alder":"18 år",
+        "Skostørrelse":"Sko-størrelse 36",
+        "Hårfarve":"Hårfarve: mørk"
+    },{
+        "Fornavn":"Jamie",
+        "Efternavn":"Pasbjerg",
+        "Alder":"22 år",
+        "Skostørrelse":"Sko-størrelse 38",
+        "Hårfarve":"Hårfarve: mørk"
+    }
+]
